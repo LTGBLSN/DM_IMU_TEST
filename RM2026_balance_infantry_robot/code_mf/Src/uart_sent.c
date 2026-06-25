@@ -20,7 +20,7 @@ void uart_sent_debug()
 {
     while (1)
     {
-        usart6_printf("%f,%f,%f \r\n",
+        usart1_printf("%f,%f,%f \r\n",
                       pitch_angle_from_bmi088,
                       roll_angle_from_bmi088,
                       yaw_angle_from_bmi088);

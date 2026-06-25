@@ -52,7 +52,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files\JetBrains\CLion 2024.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\RoboMaster_git\RM2026_balance_infantry_robot -BD:\RoboMaster_git\RM2026_balance_infantry_robot\cmake-build-debug
+  command = "C:\Program Files\JetBrains\CLion 2024.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\RoboMaster_git\DM_IMU_TEST\RM2026_balance_infantry_robot -BD:\RoboMaster_git\DM_IMU_TEST\RM2026_balance_infantry_robot\cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

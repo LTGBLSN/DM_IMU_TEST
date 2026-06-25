@@ -190,43 +190,43 @@
 			[
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/Core/Inc"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/Core/Inc"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/Middlewares/Third_Party/FreeRTOS/Source/include"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/Middlewares/Third_Party/FreeRTOS/Source/include"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/Drivers/CMSIS/Include"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/Drivers/CMSIS/Include"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/code_mf/Inc"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/code_mf/Inc"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/code_mf/Src"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/code_mf/Src"
 				}
 			],
 			"language" : "C",
@@ -392,43 +392,43 @@
 			[
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/Core/Inc"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/Core/Inc"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/Middlewares/Third_Party/FreeRTOS/Source/include"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/Middlewares/Third_Party/FreeRTOS/Source/include"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/Drivers/CMSIS/Include"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/Drivers/CMSIS/Include"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/code_mf/Inc"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/code_mf/Inc"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/code_mf/Src"
+					"path" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/code_mf/Src"
 				}
 			],
 			"language" : "ASM",
@@ -463,7 +463,7 @@
 			},
 			{
 				"backtrace" : 3,
-				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=D:/RoboMaster_git/RM2026_balance_infantry_robot/cmake-build-debug/bubing_RM2025.map",
+				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/cmake-build-debug/bubing_RM2025.map",
 				"role" : "flags"
 			},
 			{
@@ -488,7 +488,7 @@
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "D:/RoboMaster_git/RM2026_balance_infantry_robot/STM32F407IGHX_FLASH.ld",
+				"fragment" : "D:/RoboMaster_git/DM_IMU_TEST/RM2026_balance_infantry_robot/STM32F407IGHX_FLASH.ld",
 				"role" : "flags"
 			}
 		],
